@@ -5,6 +5,7 @@ Data analysis project - 2016 BC housing affordability and rental subsidies
 The lack of affordable housing is a significant challenge faced by residents of British Columbia. To address this issue, the provincial government has implemented rental subsidies to alleviate shelter costs for low-income individuals. This data analysis project utilizes data from the 2016 Census for BC, found in the "BC census 2016 data.csv" file. The objective is to review shelter subsidization rates and assess if adjustments are needed to ensure equitable distribution based on regional needs.
 
 **Tasks**
+
 *Task 1: Community Health Service Areas (CHSA) Analysis*
 Objective: Identify CHSAs where the percentage of renters spending 30% or more of their income on shelter costs exceeds 50%. Evaluate the appropriateness of rental subsidization rates in these areas by considering household income and rent prices.
 
