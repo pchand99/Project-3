@@ -23,8 +23,8 @@ Some areas household income & rent prices
 3. Sechelt: Income:  40,452Rent: 1,059 Percentage of Income Spent on Rent: 2.62%
 --> Therefore, the calculated percentages of income spent on rent for these CHSAs are relatively low, ranging from around 2% to 4%.Suggesting that on average, residents in these areas can afford their housing costs without a significant financial burden.
 
-
 *Task 2: Provincial Health Authority (PHA) Regional Analysis*
+
 The average subsidization rates for shelter costs across the five Provincial Health Authority (PHA) regions:
 
 1. Fraser Average Subsidization Rate: 2.56%
