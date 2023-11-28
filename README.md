@@ -13,6 +13,27 @@ Objective: Identify CHSAs where the percentage of renters spending 30% or more o
 *Task 2: Provincial Health Authority (PHA) Regional Analysis*
 Objective: Examine shelter subsidization rates at the regional level of Provincial Health Authorities (PHA): Fraser, Interior, Northern, Vancouver Coastal, and Vancouver Island. Determine whether there are variations in subsidization rates across these five PHA regions.
 
+**Results**
+
+*Task 1: Community Health Service Areas (CHSA) Analysis* 
+
+Some areas household income & rent prices
+1. Richmond City Centre: Income:  31,337Rent: 1,306 Percentage of Income Spent on Rent: 4.17%
+2. University of British Columbia: Income:  48,139Rent: 1,747 Percentage of Income Spent on Rent: 3.63%
+3. Sechelt: Income:  40,452Rent: 1,059 Percentage of Income Spent on Rent: 2.62%
+--> Therefore, the calculated percentages of income spent on rent for these CHSAs are relatively low, ranging from around 2% to 4%.Suggesting that on average, residents in these areas can afford their housing costs without a significant financial burden.
+
+
+*Task 2: Provincial Health Authority (PHA) Regional Analysis*
+The average subsidization rates for shelter costs across the five Provincial Health Authority (PHA) regions:
+
+1. Fraser Average Subsidization Rate: 2.56%
+2. Interior Average Subsidization Rate: 2.22%
+3. Northern Average Subsidization Rate: 1.84%
+4. Vancouver Coastal Average Subsidization Rate: 2.62%
+5. Vancouver Island Average Subsidization Rate: 2.23%
+--> There are variations in the average subsidization rates across the PHA regions. Vancouver Coastal has the highest average subsidization rate (2.62%), while Northern has the lowest (1.84%).
+
 **Data Source**
 
 The data for this project is sourced from the "BC census 2016 data.csv" file, containing information from the 2016 Census.
